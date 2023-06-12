@@ -1,4 +1,4 @@
-
+2008 listed company median pb ratio diatribution chart
 The code provided is designed to retrieve and analyze the PB50 (Price-to-Book ratio at the 50th percentile) data for a range of stocks within a specified time period using the JQData platform.
 
 First, the necessary libraries, including numpy for numerical operations, matplotlib.pyplot for plotting, pandas for data manipulation, and jqdata for accessing financial data, are imported.
